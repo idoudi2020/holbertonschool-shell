@@ -1,2 +1,2 @@
-#!/bin/bashi
-echo $(( BREATH*LOVE ))
+#!/bin/bash
+echo $(( 2#$BINARY ))
